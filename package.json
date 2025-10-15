@@ -1,5 +1,5 @@
 {
-  "name": "thumbnail-generator",
+  "name": "@wsdot/thumbnail-generator",
   "version": "0.0.1",
   "module": "index.ts",
   "type": "module",
