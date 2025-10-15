@@ -25,4 +25,15 @@ The `thumbnail.svg` is a template for the creation of a WSDOT standard thumbnail
 6. Export the image to PNG.
 7. If you haven't already, save your SVG for later use.
 
+## Standard item types
+
+| type | description                 |
+| ---- | --------------------------- |
+| svc  | map, feature, etc., service |
+| map  | Web Map                     |
+| app  | Application                 |
+| misc | Misc.                       |
+| doc  | Document                    |
+| PDF  | PDF                         |
+
 [Inkscape]: https://inkscape.org/
