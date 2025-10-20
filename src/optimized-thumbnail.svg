@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="thumbnail" overflow="hidden" viewBox="0 0 895 591">
+    <defs id="defs180">
+        <radialGradient id="typeBGGradient" cx="957" cy="1851" r="78.995" gradientUnits="userSpaceOnUse">
+            <stop id="stop247" offset=".738" stop-color="#fff" stop-opacity=".93" />
+            <stop id="stop248" offset="1" stop-color="#fff" stop-opacity="0" />
+        </radialGradient>
+        <linearGradient id="nameBGGradient" x1="610.75" x2="610.75" y1="440" y2="398" gradientUnits="userSpaceOnUse">
+            <stop id="stop244" offset=".133" stop-color="#fff" stop-opacity=".93" />
+            <stop id="stop245" offset="1" stop-color="#fff" stop-opacity="0" />
+        </linearGradient>
+        <style id="style1">
+            #flying-t,
+            .item-name,
+            .item-type {
+                fill: #007a60
+            }
+
+            .item-name,
+            .item-type {
+                font-weight: 700;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 55px
+            }
+        </style>
+    </defs>
+    <image id="bg" width="895" height="591.123" x="0" y="0" href="default-bg.png" preserveAspectRatio="none" />
+    <g id="item-type-with-bg">
+        <circle id="type-bg" cx="957" cy="1851" r="79" fill="url(#typeBGGradient)" fill-rule="evenodd"
+            style="display:inline" transform="translate(-166 -1757)" /><text id="item-type" x="790.54" y="109"
+            class="item-type" style="text-align:center;text-anchor:middle;display:inline">misc</text>
+    </g>
+    <g id="name-section">
+        <path id="item-name-bg" fill="url(#nameBGGradient)" d="M0 398h895v193H0z" style="display:inline" />
+        <path id="flying-t"
+            d="M863.83 506.1c-1.023 34.397-29.407 62.141-64.059 62.141-3.581 0-7.035-.382-10.358-.895v-.128c8.822-15.217 20.843-35.544 32.351-54.982 2.558-4.476 4.476-6.136 8.825-6.136zm-128.12-.127c.513 20.33 10.358 37.978 25.444 49.355h.127c9.463-16.494 17.135-29.923 26.725-46.414.896-1.536.513-2.814-1.15-2.814zm6.777-30.815c10.613-20.84 32.224-35.161 57.158-35.161s46.672 14.32 57.158 35.16H826.37c-3.836 0-6.904 1.15-8.822 3.709-.638-1.918-1.664-3.708-4.091-3.708zm25.702 84.902c3.963 2.17 8.182 4.09 12.66 5.371l.128-.258c8.695-14.704 23.143-39.252 35.547-60.223 3.454-5.75 7.287-7.927 13.3-7.927h33.5c-.51-4.858-1.663-9.46-3.196-13.936H825.73c-4.218 0-8.44 2.173-10.995 5.754-.254-1.408-.64-2.173-1.022-3.07-.895-1.533-1.79-2.687-4.219-2.687h-70.2c-1.536 4.477-2.686 9.08-3.2 13.936h59.844c6.009 0 4.09 8.185 1.022 13.426-9.59 16.494-19.307 33.12-28.77 49.613z"
+            style="display:inline" /><text id="item-name" x="34" y="527" class="item-name" style="display:inline">Insert
+            Title Here</text>
+    </g>
+</svg>

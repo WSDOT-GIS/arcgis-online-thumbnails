@@ -12,11 +12,15 @@
     "@types/bun": "latest",
     "oxlint": "^1.23.0",
     "oxlint-tsgolint": "^0.2.0",
-    "prettier": "^3.6.2"
+    "prettier": "^3.6.2",
+    "svgo": "^4.0.0"
   },
   "license": "UNLICENSED",
   "repository": "github:WSDOT-GIS/arcgis-online-thumbnails",
   "peerDependencies": {
     "typescript": "^5"
+  },
+  "dependencies": {
+    "@fontsource/lato": "^5.2.7"
   }
 }
